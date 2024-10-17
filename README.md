@@ -1,5 +1,5 @@
 # Research Resources
-list and description of resources for research in computer science fields. Please submit a PR if you want to add anything.
+list and description of resources for research in computer science fields. Not arranged in any particular order. Please submit a PR if you want to add anything.
 
 
 | Resource  | Description | Link | Type | Field |
