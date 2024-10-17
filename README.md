@@ -1,4 +1,4 @@
-# ResearchResources
+# Research Resources
 list and description of resources for research in computer science fields. Please submit a PR if you want to add anything.
 
 
